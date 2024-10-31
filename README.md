@@ -92,5 +92,25 @@ Selamat menggunakan Aplikasi Hitung Harga yang imut ini! Jika Anda memiliki pert
 
 --- 
 
+## 🌸 Lisensi Manis untuk Proyek Ini: CC BY-NC 4.0 🌸
+
+Hai teman-teman! 🎀 Proyek ini dilindungi oleh lisensi **Creative Commons Non-Commercial 4.0**! ✨ 
+
+### Apa Artinya? 🧐
+Dengan lisensi ini:
+- **💖 Bebas untuk Dibagikan**: Kalian boleh membagikan, mengedit, dan memperkaya karya ini sesuka hati, selama tetap memberikan kredit kepada penciptanya (yaitu kami!) 💌
+- **🚫 Tidak untuk Komersial!**: Proyek ini hanya untuk keperluan pribadi dan proyek non-komersial. Jadi, meskipun kami senang jika kalian suka, **jangan gunakan untuk mencari keuntungan ya**! 😅 
+
+### Kenapa Non-Commercial? 🌈
+Kami ingin proyek ini tetap gratis dan bebas untuk teman-teman semua, namun hanya untuk keperluan pribadi atau proyek yang tidak mencari untung. Proyek ini adalah bentuk cinta dan dedikasi kami kepada komunitas ❤️
+
+> **Kreditkan dengan Cantik:** Jika kalian ingin membagikan karya ini, beri kredit ya, cukup dengan mencantumkan nama kami atau link ke proyek ini! 🌸✨
+
+Terima kasih sudah membaca, dan mari berkreasi dengan cinta tanpa batas! 🌷💖
+
+---
+
+Lisensi **CC BY-NC 4.0** memberikan batasan kecil untuk menjaga penggunaan non-komersial, namun tetap bisa dinikmati bersama!
+
 **Hak Cipta © 2024 by kaizenn-Me** ✨
 ```
